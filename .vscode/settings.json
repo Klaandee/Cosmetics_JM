@@ -1,0 +1,8 @@
+{
+    "intelephense.environment.includePaths": [
+        "C:\\Users\\roxana solis\\Downloads\\pocketmine\\PocketMine-MP-stable\\src",
+        "C:\\Users\\roxana solis\\Downloads\\pocketmine\\Color-Master\\src",
+        "C:\\Users\\roxana solis\\Downloads\\pocketmine\\NBT-stable\\src",
+        "C:\\Users\\roxana solis\\Downloads\\pocketmine\\Math-stable\\src"
+    ]
+}

@@ -1,0 +1,29 @@
+---
+name: Cosmetics_JM
+author: JM
+api: 5.0.0
+version: 2.5
+main: JM\Cosmetics
+
+permissions:
+  cosmetics.spawn:
+    default: op
+  cosmetics.open:
+    default: true
+  cosmetics.armors:
+    default: op
+  cosmetics.size:
+    default: op
+  cosmetics.capes:
+    default: op
+  cosmetics.particles.hearts:
+    default: op
+  cosmetics.particles.flame:
+    default: op
+  cosmetics.particles.villager:
+    default: op
+  cosmetics.particles.smoke:
+    default: op
+  cosmetics.particles.snowball:
+    default: op
+---

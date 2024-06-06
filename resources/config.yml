@@ -1,0 +1,5 @@
+# Npc Settings
+npc-name: "§l§d*§6 Cosmetics §d*§r\n§l§aNEW!\n§r§7/cosmetics"
+
+# Capes (No tocar sin antes consultar)
+standard_capes: ["Fire", "Firework", "Iron Golem", "Energy", "Enderman"]
